@@ -1,0 +1,13 @@
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\bin\Debug\netcoreapp3.1\RegistratinProj.exe
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\bin\Debug\netcoreapp3.1\RegistratinProj.deps.json
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\bin\Debug\netcoreapp3.1\RegistratinProj.runtimeconfig.json
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\bin\Debug\netcoreapp3.1\RegistratinProj.runtimeconfig.dev.json
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\bin\Debug\netcoreapp3.1\RegistratinProj.dll
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\bin\Debug\netcoreapp3.1\RegistratinProj.pdb
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\obj\Debug\netcoreapp3.1\RegistratinProj.csprojAssemblyReference.cache
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\obj\Debug\netcoreapp3.1\RegistratinProj.AssemblyInfoInputs.cache
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\obj\Debug\netcoreapp3.1\RegistratinProj.AssemblyInfo.cs
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\obj\Debug\netcoreapp3.1\RegistratinProj.csproj.CoreCompileInputs.cache
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\obj\Debug\netcoreapp3.1\RegistratinProj.dll
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\obj\Debug\netcoreapp3.1\RegistratinProj.pdb
+C:\Users\Taria\source\repos\RegistratinProj\RegistratinProj\obj\Debug\netcoreapp3.1\RegistratinProj.genruntimeconfig.cache
