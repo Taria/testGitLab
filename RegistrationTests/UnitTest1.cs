@@ -9,7 +9,7 @@ namespace RegistrationTests
         [TestMethod]
         public void EmptyInput()
         {
-            // Arrangess
+            // Arrangesss
             string uName = "";
             string uPass = "sgsdgdfhgfj";
             Registration registration = new Registration();
