@@ -1,0 +1,32 @@
+image: mcr.microsoft.com/dotnet/sdk:3.1
+
+before_script:
+  - 'dotnet --info'
+
+build:
+  script:
+    - 'dotnet build RegistratinProj.sln'
+
+EmptyInput:
+  script:
+    - 'dotnet test --filter EmptyInput'
+
+NullInput:
+  script:
+    - 'dotnet test --filter NullInput'
+
+ShortInput:
+  script:
+    - 'dotnet test --filter ShortInput'
+
+LongInput:
+  script:
+    - 'dotnet test --filter LongInput'
+
+MinOkInput:
+  script:
+    - 'dotnet test --filter MinOkInput'
+
+MaxOkInput:
+  script:
+    - 'dotnet test --filter MaxOkInput'
